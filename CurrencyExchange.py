@@ -3,7 +3,7 @@ import requests
 
 class CurrencyExchange:
     def __init__(self):
-        self.api_key = open(r"C:\Users\DELL\Desktop\API_access_key.txt","r").readline()
+        self.api_key = open(r"C:\Users\DELL\Desktop\API_access_key.txt","r").readline() # Add ur Api key into text file and define the path according to it.
         self.base_currency = "INR"
 
     def do_request(self,url):
