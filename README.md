@@ -1,4 +1,4 @@
-# Currency Exchange API Wrapper and CLI
+# ExchangeXpert - Your Real-Time Currency Exchange Rate Specialist.
 
 This project demonstrates a Python-based Currency Exchange API wrapper with a user-friendly command-line interface (CLI). The wrapper interacts with the "FIXER API" to fetch real-time exchange rate data for various currencies. The CLI provides users with options to access exchange rates, perform currency conversion, and analyze historical data.
 
